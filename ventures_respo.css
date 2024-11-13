@@ -1,0 +1,490 @@
+
+@media (max-width:1500px) {
+    #service #bg-image-2 .container .row .col-4 .design-img-circle {
+        position: absolute;
+        right: -21px;
+        width: 180px;
+    }
+}
+@media (max-width:1440px) {
+    #navbarSupportedContent .navbar-nav .nav-item a {
+        font-size: 15px;
+    }
+    #get-quote .quote-shape{
+        padding-left: 10px;
+    }
+    #get-quote .quote-shape a {
+        font-size: 15px;
+    }
+    #get-quote .quote-shape .quote-logo {
+        height: 30px;
+        width: 30px;
+    }
+    #bg-image .container .row .col-8 h1 {
+        font-size: 38px;
+        font-weight: 700;
+    }
+    #hero-row-2 .col-4 .icon img{
+        width: 38px;
+        height: 42px;
+    }
+    #bg-image .container .row .col-4 .bulb {
+        width: 85%;
+        height: 350px;
+    }
+    #product #product-details h1 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+    #product #product-details .lorem-text{
+        font-size: 15px;
+    }
+    #service #bg-image-2 .container .row .col-8 h1 {
+        font-size: 40px;
+        font-family: 600;
+    }
+    #service #bg-image-2 .container .row .col-8 .row .col-6 .service-text h2 {
+        font-size: 25px;
+        font-weight: 600;
+    }
+    #service #bg-image-2 .container .row .col-8 .row .col-6 p{
+        font-size: 15px;
+    }
+    #contact .container-fluid .container .row .col-6 h1 {
+        font-size: 40px;
+    }
+    #footer #bg-img-3 .col-6 h1 {
+        font-size: 40px;
+        font-weight: 600;
+    }
+    #footer #bg-img-3 .col-6 p{
+        font-size: 15px;
+    }
+    #footer #bg-img-3 .container .row .col-6 .row .col-6 .footer-links a {
+        font-size: 15px;
+    }
+    #footer #bg-img-3 .container .row .col-6 .row .col-4 .social-icons img {
+        width: 32px;
+    }
+    #footer #bg-img-3 .col-6 {
+        column-gap: 15px;
+    }
+    #footer #bg-img-3 .container .row .col-6 .row .col-4{
+        justify-content: center;
+    }
+    #icons-social{
+        padding-top:25px;
+    }
+    #footer #bg-img-3 .col-6 {
+        column-gap: 50px;
+        width: 50%;
+      }
+}
+
+@media (max-width:1200px) {
+    #navbarSupportedContent .navbar-nav {
+        column-gap: 21px;
+    }
+    #header .logo a img{
+        width: 180px;
+    }
+    #header .container-fluid{
+        padding-top: 12px;
+    }
+    #bg-image .container .row .col-8 h1 {
+        font-size: 32px;
+        font-weight: 700;
+    }
+    #bg-image .container .row .col-8 h6 {
+        font-size: 14px;
+        font-weight: 700;
+    }
+    #bg-image .container .row .col-4 {
+        display: block;
+        padding: 20px;
+    }
+    #hero-row-2 .col-4 .icon img {
+        width: 32px;
+        height: 35px;
+    }
+    #product #product-details .grow-text{
+        padding-top: 20px;
+    }
+    #product #product-details h1 {
+        font-size: 32px;
+        font-weight: 700;
+    }
+    #product #product-details .lorem-text{
+        padding-top: 0;
+    }
+    #product #product-details p {
+        font-size: 14px;
+    }
+    #service #bg-image-2 .container .row .col-4 .icecream-img img {
+        width: 100%;
+        height: 500px;
+        z-index: 100;
+    }
+    #service #bg-image-2 .container .row .col-4 .design-img-circle {
+        position: absolute;
+        right: 17px;
+        width: 140px;
+    }
+    #service #bg-image-2 .container .row .col-8 .img-design {
+        padding: 0px 0 15px;
+    }
+    #service #bg-image-2 .container .row .col-8 h1 {
+        font-size: 32px;
+    }
+    #service #bg-image-2 .container .row .col-8 .row {
+        padding-top: 22px;
+    }   
+    #service #bg-image-2 .container .row .col-8 .row .col-6 .service-text img {
+        height: 30px;
+    }
+    #service #bg-image-2 .container .row .col-8 .row .col-6 p {
+        font-size: 14px;
+    }
+    #service #bg-image-2 .container .row .col-8 .row .col-6 .service-text h2 {
+        font-size: 18px;
+        font-weight: 500;
+    }
+    #contact .container-fluid .container .row .col-6 {
+        padding: 20px;
+    }   
+    #contact .container-fluid .container .row .col-6 h1 {
+        font-size: 32px;
+    } 
+    #contact .container-fluid .container .row .col-6 .contact
+    {
+        padding-top: 28px;
+    }
+    #footer #bg-img-3 .col-6 h1 {
+        font-size: 32px;
+        font-weight: 600;
+    }
+    #footer #bg-img-3 .col-6 p {
+        font-size: 14px;
+    }
+    #contact .container-fluid .container .row .col-6 .contact .text p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    #footer #bg-img-3 .container .row .col-12 {
+        column-gap: 140px;
+    }
+    #footer #bg-img-3 .container .row .col-12 .col-4 .social-icons {
+        column-gap: 13px;
+    }
+}
+
+@media (max-width:992px) {
+    #header .logo a img {
+        width: 150px;
+    }
+    #get-quote{
+        display: none;
+    }
+    #bg-image .container .row .col-8 {
+        padding-top: 30px;
+    }
+    #bg-image .container .row .col-8 h1 {
+        font-size: 28px;
+    }
+    #bg-image .container .row .col-4 {
+        padding: 0px;
+    }
+    #product .row #van-img{
+        padding: 0;
+        width: 100%;
+        padding: 60px;
+        padding-bottom: 20px;
+    }
+    #product .row #product-details{
+        padding: 0;
+        width: 100%;
+    }
+    #product #product-details .grow-text {
+        padding-top: 20px;
+        font-size: 28px;
+    }
+    #service #bg-image-2 .container .row .col-8{
+        width: 100%;
+        order: 2;
+    }
+    #service #bg-image-2 .container .row .col-4{
+        width: 100%;
+        justify-content: center;
+        order: 1;
+    }
+    #contact .container-fluid .container .row .col-6 .contact {
+        padding-top: 18px;
+    }
+    #contact .container-fluid .container .row .col-6 .contact .text p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    #contact .container-fluid .container .row .col-6 {
+        padding: 5px;
+    }
+    #contact .container-fluid .container .row .col-6 h1 {
+        font-size: 28px;
+    }
+    #contact .container-fluid .container .row .col-6 img {
+        width: 90%;
+    }
+    #footer #bg-img-3 .col-6 h1 {
+        font-size: 28px;
+    }
+    #footer #bg-img-3 .col-6 p {
+        padding: 0;
+    }
+      #footer #bg-img-3 .container .row .col-6 #footer-button a {
+        font-size: 14px;
+        font-weight: 500;
+    }
+      #footer #bg-img-3 .container .row .col-6 #footer-button {
+        padding: 5px 5px 5px 12px;
+    }
+    #footer #bg-img-3 .col-6 p {
+        padding-top: 15px;
+    }
+    #service #bg-image-2 .container .row .col-4 .design-img-circle {
+        position: absolute;
+        right: 185px;
+        width: 156px;
+    }
+    #footer #bg-img-3 .container .row .col-12 {
+        column-gap: 93px;
+    }
+}
+
+@media (max-width:768px){
+    #navbarSupportedContent {
+        position: relative;
+    }
+    #header .bars{
+        line-height: 41px;
+        display: block;
+      }
+
+      #header .navbar-nav{
+        display: none;
+      }
+      #header .bars a:hover .navbar-nav{
+        display: block;
+    }
+
+    #navbarSupportedContent .navbar-nav{
+        flex-direction: column;
+        position: absolute;
+        top: 5px;
+        background-color:white;
+        box-shadow: 0px 0 30px color-mix(in srgb, #2C2C2C, transparent 90%);
+        
+    }  
+    #navbarSupportedContent .navbar-nav li{
+        padding: 3px 30px;
+    }  
+    #header .bars:hover #navbarSupportedContent .navbar-nav{
+        display: block;
+    }
+    #bg-image .container .row .col-4 .bulb {
+        width: 100%;
+        height: 320px;
+    }
+    #product #product-details .brand-text {
+        font-size: 28px;
+    }
+    #contact .container-fluid .container .row .col-6 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #contact .container-fluid .container .row .col-6 img{
+        padding: 20px;
+    }
+    #contact .container-fluid {
+        padding: 20px 0;
+    }
+    #service #bg-image-2 {
+        padding: 20px 0;
+    }
+    #contact .container-fluid .container .row .col-6 h1 {
+        padding-top: 0;
+    }
+    #contact .container-fluid .container .row .col-6 img {
+        padding: 0px;
+    }
+    #contact .container-fluid .container .row .col-6 .contact {
+        padding-top: 18px;
+        width: 100%;
+    }
+    #footer #bg-img-3 .container .row .col-6 #footer-button a img {
+        width: 32px;
+        position: relative;
+        z-index: 3;
+        transition: background-color 0.3s ease;
+    }
+    #service #bg-image-2 .container .row .col-4 .design-img-circle {
+        position: absolute;
+        right: 93px;
+        width: 156px;
+    }
+    .dropdown .dropdown-menu{
+        position: absolute;
+        left: 50px;
+    }
+    #navbar-2{
+        display: block;
+    }
+    #navbarToggleExternalContent{
+        position: absolute;
+        right: 0px;
+    }
+    #footer #bg-img-3 .container .row .col-12 {
+        column-gap: 45px;
+    }
+}
+
+@media (max-width:576px){
+    #product #product-details #design-img {
+       display: none;
+    }
+    #product #product-details p {
+        text-align: center;
+    }
+    #product #product-details .brand-text {
+        text-align: center;
+    }
+    #product #product-details .grow-text {
+        text-align: center;
+    }
+    #service #bg-image-2 .container .row .col-8 h1 {
+        font-size: 28px;
+    }
+    #bg-image-2 .row .col-6{
+        width: 100%;
+    }
+    #bg-image .container .row{
+        justify-content: center;
+    }
+    #bg-image .container .row .col-8 {
+        width: 100%;
+        order: 2;
+        justify-content: center;
+    }
+    #bg-image .container .row .col-8 .elevate-text {
+        padding: 18px 0 8px;
+        text-align: center;
+    }
+    #bg-image .container .row .col-8 h1 {
+        font-size: 28px;
+        text-align: center;
+    }
+    #bg-image .container .row .col-8 .text-hero {
+        flex-direction: column;
+    }
+    #bg-image .container .row .col-8 h6 {
+        text-align: center;
+    }
+    #bg-image .container .row .col-4 {
+           width: 40%;
+           order: 1;
+    }
+    #hero-button {
+        margin: auto;
+    }
+    #bg-image .container .row {
+        padding-top: 20px;
+    }
+        #bg-image .container .row .col-4 {
+            width: 48%;
+    }
+    #service #bg-image-2 .container .row .col-4 .design-img-circle {
+        right: 79px;
+        width: 149px;
+    }
+    #footer #bg-img-3 .col-6 {
+        column-gap: 50px;
+        width: 50%;
+    }
+    #footer #bg-img-3 .container .row .col-12 {
+        column-gap: 29px;
+    }
+} 
+
+@media (max-width:425px){
+#bg-image .container .row .col-4 {
+    width: 60%;
+    }
+#bg-image .container .row .col-8 .elevate-text {
+    padding:0px 0 0px;
+    margin-bottom: 5px;
+    text-align: center;
+   }
+#bg-image .container .row .col-8 h1 {
+    margin-bottom: 0;
+   }
+   #service #bg-image-2 .container .row .col-4 .design-img-circle {
+    right: 40px;
+    width: 149px;
+}
+#product .row #van-img {
+    padding: 20px;
+    padding-bottom: 0px;
+}
+#product .container-fluid {
+    padding: 20px 0;
+}
+#service #bg-image-2 .container .row .col-4 .icecream-img img {
+    height: 435px;
+}
+#footer #bg-img-3 .col-6 {
+    width: 100%;
+    padding-top: 10px;
+}
+#footer #bg-img-3 .col-6 h1 {
+    font-size: 22px;
+    text-align: center;
+}
+#footer #bg-img-3 .col-6 p {
+    padding-top: 14px;
+    text-align: center;
+    width: 100%;
+}
+#footer #bg-img-3 .container .row .col-6 #footer-button {
+    padding: 5px 5px 5px 12px;
+    margin: auto;
+}
+#footer #bg-img-3 .container .row .col-12 p {
+    text-align: center;
+}
+#footer #bg-img-3 .container .row .col-12{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+ #footer #bg-img-3 .container .row .col-12 .col-4{
+    width: 100%;
+    justify-content: center;
+}
+.navbar-dark .navbar-toggler {
+    padding-right: 0;
+}
+}
+
+@media (max-width:320px){
+    #bg-image .container .row .col-4 {
+        width: 75%;
+    }
+    #product .row #van-img {
+        padding: 20px;
+        padding-bottom: 0px;
+    }
+    #service #bg-image-2 .container .row .col-4 .icecream-img img {
+        height: 435px;
+    }
+ 
+} 
